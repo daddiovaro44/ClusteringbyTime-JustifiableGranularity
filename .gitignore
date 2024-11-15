@@ -1,3 +1,4 @@
-*.csv
+*.*.csv
+report*.csv
 *.joblib
 *.txt
